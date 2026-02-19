@@ -1,0 +1,13 @@
+# Build outputs
+build/
+ripple
+
+# Object files
+*.o
+
+# Editor/IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
